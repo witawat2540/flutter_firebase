@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "209157720799",
+    "firebase_url": "https://workshopfirebase-1fbb9.firebaseio.com",
+    "project_id": "workshopfirebase-1fbb9",
+    "storage_bucket": "workshopfirebase-1fbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209157720799:android:09622cc9ad9d5795b4776a",
+        "android_client_info": {
+          "package_name": "com.witawatd.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209157720799-4cj32lrd149nlm38v3p0fj8vbrp8clv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE6FqE3jB06oR-Ma4vOf8E3awSFJwobeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209157720799-4cj32lrd149nlm38v3p0fj8vbrp8clv0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
